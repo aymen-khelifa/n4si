@@ -88,14 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymenkhelifa&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymenkhelifa&layout=compact&theme=radical" height="160"/>
-</p>
-
----
 
 ## ✨ Quote I Live By
 
@@ -103,4 +95,4 @@
 
 ---
 
-⭐️ From [Yosr Charek](https://github.com/aymen-khelifa)
+⭐️ From [Aymen khelifa](https://github.com/aymen-khelifa)
