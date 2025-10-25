@@ -16,23 +16,30 @@
 
 ---
 
-## 💻 Tech Stack
+💻 Tech Stack
+Java Spring Boot .NET PHP Python
 
-### 🧠 Languages & Frameworks
-| Category | Technologies |
-|-----------|---------------|
-| **Backend** | Java • Spring Boot • .NET • PHP • Python |
-| **Frontend** | JavaScript • React.js • Angular • Express.js |
-| **Web Essentials** | HTML5 • CSS3 • SASS • TailwindCSS • Bootstrap • Vite |
-| **Auth & Routing** | JWT • React Router • React Hook Form |
-| **Databases** | MySQL • MongoDB |
-| **AI & CV** | OpenCV • TensorFlow |
-| **DevOps & Tools** | Jenkins • Docker • GitHub Actions • Git |
-| **Monitoring** | Grafana • Prometheus • SonarQube • Swagger |
-| **Project Management** | Kubernetes • Postman • Jira • Trello |
-| **Mobile** | Flutter • Android . FlutterFlow |
-| **Design** | Figma • Canva |
-| **Real-Time & APIs** | Socket.io • GraphQL • Symfony |
+JavaScript Node.js React Angular Express.js
+
+HTML5 CSS3 SASS TailwindCSS Bootstrap Vite
+
+JWT React Router React Hook Form
+
+MySQL MongoDB Hibernate
+
+OpenCV TensorFlow
+
+Jenkins Docker GitHub Actions Git
+
+Grafana Prometheus SonarQube Swagger
+
+Kubernetes Postman Jira Trello
+
+Flutter Android
+
+Figma Canva
+
+Socket.io GraphQL Symfony
 
 ---
 
